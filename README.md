@@ -1,4 +1,4 @@
-# Advanced Deep Learning for Robotics Project SS2020
+# Advanced Deep Learning for Robotics Project WS20/21
 
 ### Learning to Optimize Motion Planning
 
