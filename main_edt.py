@@ -1,6 +1,8 @@
 import numpy as np
+import matplotlib
 from matplotlib.widgets import Slider
 from matplotlib.animation import FuncAnimation
+matplotlib.use('Agg')
 
 from GridWorld.random_rectangles import create_rectangle_image
 from GridWorld.obstacle_distance import obstacle_img2dist_img, obstacle_img2dist_derv
